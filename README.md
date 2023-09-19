@@ -9,4 +9,6 @@ You can use this commands to start your project
 ``node ace srr:watch`` and
 ``yarn run dev``
 
+Remember to copy the .env.example file
+
 ### Create something cool!
